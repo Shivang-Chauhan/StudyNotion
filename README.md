@@ -114,16 +114,16 @@ Welcome to StudyNotion! This repository contains the code for a full-stack educa
 Here are some screenshots of the Website:
 
 ### Home Page
-![Home Page](screenshots/homepage.png)
+<img width="1439" alt="Screenshot 2024-07-18 at 6 24 14 PM" src="https://github.com/user-attachments/assets/0b35d36e-5b78-4898-91aa-1b4ef76199a3">
 
 ### Course List
-![Course List](screenshots/courselist.png)
+<img width="1440" alt="Screenshot 2024-07-18 at 6 26 30 PM" src="https://github.com/user-attachments/assets/21c612bb-ffbf-46f4-b19a-feed81db0472">
 
 ### Course Detail
-![Course Detail](screenshots/coursedetail.png)
+<img width="1440" alt="Screenshot 2024-07-18 at 6 27 08 PM" src="https://github.com/user-attachments/assets/1589b11b-d702-4a76-bcb9-268a38433655">
 
 ### User Profile
-![User Profile](screenshots/userprofile.png)
+<img width="1440" alt="Screenshot 2024-07-18 at 6 28 04 PM" src="https://github.com/user-attachments/assets/484c2504-b050-473b-8a0f-3cebc8b23840">
 
 
 ## Contributing
