@@ -8,6 +8,7 @@ Welcome to StudyNotion! This repository contains the code for a full-stack educa
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -106,6 +107,24 @@ Welcome to StudyNotion! This repository contains the code for a full-stack educa
 - **Manage Courses**: If you are an educator, create and manage your courses.
 - **Interactive Learning**: Participate in quizzes, watch educational videos, and submit assignments.
 - **Community Interaction**: Engage with other users through discussion forums.
+
+
+## Screenshots
+
+Here are some screenshots of the Website:
+
+### Home Page
+![Home Page](screenshots/homepage.png)
+
+### Course List
+![Course List](screenshots/courselist.png)
+
+### Course Detail
+![Course Detail](screenshots/coursedetail.png)
+
+### User Profile
+![User Profile](screenshots/userprofile.png)
+
 
 ## Contributing
 
